@@ -8,7 +8,7 @@ hr.new1 {
 
 .column {
   float: left;
-  width: 29%;
+  width: 45%;
   padding: 5px;
 }
 
@@ -43,6 +43,8 @@ body {
  box-shadow: 10px 10px;
 }
 
+
+
 h1 {
   font-family: Arial, Helvetica, sans-serif;
   color: #0000b3;
@@ -70,6 +72,7 @@ h2 {
 
 p {
     margin-left: 80px;
+    font-size: 10px;
 
 }
 
